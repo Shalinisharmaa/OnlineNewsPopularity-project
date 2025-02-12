@@ -2,9 +2,12 @@
 Analyzing the factor influencing the news popularity and investigate and understand that the factors contribute the popularity of online news articles. Collecting data , Cleaning and Pre-proccing Doing Eda and Feature Engineering then correlation analysis.
 
 <img width="1440" alt="Screenshot 2025-02-12 at 6 20 36 PM" src="https://github.com/user-attachments/assets/23a13643-d2b6-4a23-87ce-28bb0db1d31f" />
-
+The images show correlation matrices where numerical features are correlated against each other.
+Diagonal elements are 1.0, indicating a perfect correlation with themselves. Dark red areas show strong positive correlations, while dark blue areas indicate negative correlations.These matrices help in feature selection by identifying redundant features.
 <img width="1440" alt="Screenshot 2025-02-12 at 6 20 44 PM" src="https://github.com/user-attachments/assets/4ac584de-bc4b-4ec7-9c6d-81cf86652fc9" />
-<img width="1440" alt="Screenshot 2025-02-12 at 6 20 52 PM" src="https://github.com/user-attachments/assets/c31c3682-c4d5-4d61-bf4b-8a9db7a02a72" />
+<img width="1440" alt="Screenshot 2025-02-12 at 6 20 52 PM" src="https://github.com/user-attachments/assets/c31c3682-c4d5-4d61-bf4b-8a9db7a02a72" />The image shows a histogram (sns.histplot) depicting the distribution of shares.
+The histogram is heavily right-skewed, indicating that most articles have low shares, while a few have exceptionally high shares. This suggests outliers or a long-tail distribution.
+The kde=True option overlays a Kernel Density Estimation (KDE) curve for better visualisation.
 <img width="1440" alt="Screenshot 2025-02-12 at 6 20 59 PM" src="https://github.com/user-attachments/assets/75dfbc32-476e-4b28-958f-e8a05011ee73" />
 <img width="1440" alt="Screenshot 2025-02-12 at 6 21 07 PM" src="https://github.com/user-attachments/assets/84b33397-c4d1-44ae-9b69-a6c69c5879e0" />
 <img width="1440" alt="Screenshot 2025-02-12 at 6 21 22 PM" src="https://github.com/user-attachments/assets/87bbcff2-973e-491d-be6a-43ca552dcedd" />
