@@ -13,6 +13,8 @@ The histogram is heavily right-skewed, indicating that most articles have low sh
 The kde=True option overlays a Kernel Density Estimation (KDE) curve for better visualisation.
 <img width="1440" alt="Screenshot 2025-02-12 at 6 21 22 PM" src="https://github.com/user-attachments/assets/87bbcff2-973e-491d-be6a-43ca552dcedd" />
 <img width="1440" alt="Screenshot 2025-02-12 at 6 21 26 PM" src="https://github.com/user-attachments/assets/b67d8c08-e6ac-495b-af53-29debe3d4928" />
+The image displays a scatter plot showing Mean Shares vs. Total Hrefs/Videos. The data is highly sparse, with a few articles having abnormally high shares. The spikes at specific values indicate that some articles disproportionately drive higher engagement.
+
 <img width="1440" alt="Screenshot 2025-02-12 at 6 21 38 PM" src="https://github.com/user-attachments/assets/bee6dbd8-d5ac-4444-87ce-172d421c3305" />
 <img width="1440" alt="Screenshot 2025-02-12 at 6 21 34 PM" src="https://github.com/user-attachments/assets/c92b9c29-0a1d-4385-9c98-2091cdb47931" />
 <img width="1440" alt="Screenshot 2025-02-12 at 6 21 44 PM" src="https://github.com/user-attachments/assets/0e10471f-aad9-4e90-b6cc-f6e4659207b5" />
